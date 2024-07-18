@@ -25,6 +25,8 @@ namespace MyGitignore
             {  name = "용사", level = 1 };
             Monster monster = new Monster() 
             {  name = "슬라임", level = 4 };
+            Monster monster = new Monster() 
+            {  name = "슬라임", level = 4 };
         }
     }
 }
